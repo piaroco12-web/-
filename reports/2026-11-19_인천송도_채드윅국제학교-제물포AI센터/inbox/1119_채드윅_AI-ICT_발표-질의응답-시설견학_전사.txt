@@ -1,0 +1,1072 @@
+참석자 1 / 00:00
+체드위 국제 스쿨
+
+참석자 2 / 00:08
+작년 재작년에 퇴임을 하셨.
+
+참석자 3 / 00:11
+충청남도 월스 충청남도
+
+참석자 3 / 00:16
+엄청난 What's the big city?
+
+참석자 4 / 00:20
+교스창 천안 우월 아산
+
+참석자 5 / 00:47
+빼고 나오는 과정부터 인원이 굉장히 몇 년이지만 한 20년
+
+참석자 2 / 00:51
+20명 내외가 되죠.
+
+참석자 2 / 01:08
+이거는 이따가 질의 응답 기간에 질문을 해 주시면 바로 화면으로 통역이
+
+참석자 3 / 01:25
+Oh it's okay. Now
+
+참석자 4 / 01:43
+is that full screen?
+
+참석자 4 / 01:48
+Just go through the slides.
+
+참석자 1 / 01:59
+구글에 저거 실시간 번호 있을 거예요. 구글에 있더라고요.
+
+참석자 3 / 02:13
+테스팅 테스팅 테스팅 오케이 테스팅 테스팅 테스트 테스트 오케이.
+All right Thank. Good afternoon.
+I don't think this is going to take one hour so I'll probably talk for about 20 or 30 minutes and then we'll have you ask us some questions about what we're doing.
+So just to introduce myself my name is Dan I'm the Director of Educational Technology at Chedwick and we also have Elaine Park and Elaine is our educational technology coach in our middle and upper school.
+
+참석자 3 / 02:48
+We also have another educational technology coach his name is Nick Garvin.
+Unfortunately this morning he wasn't feeling well so he's gone home so he wasn't able to join us today.
+So what I'm going to walk you through today is just a little bit about the approach that we've been taking here at our school.
+And this is actually a combination of what we presented to our faculty in the morning today as well as
+
+참석자 3 / 03:16
+a little bit of the data we've been able because we did some survey data with about almost 190 faculty plus over 20 of our leadership team and administrators.
+And the data that you will see is data that's just pulled about 20 minutes ago from the results.
+So I haven't had a lot of time to digest or really go through the data yet and our faculty has not seen the results but I wanted to give you an idea of where our school is actually at.
+
+참석자 3 / 03:45
+So one of the things that we talked to our faculty about was this idea of So we are talking about AI in the school and how we address AI for teaching and learning and whether it can have an impact in a positive way on teaching and learning.
+So when something like a new technology comes into the school whether it happens to be a previous technology like one to one devices or even the Internet or other kinds of technology it can create a lot of disruption disruption and fear among faculty.
+
+참석자 3 / 04:20
+And you can either choose to go down a path where you really embrace this path of control which is very top down it's much more about it's based on more of a theory around the expert is the teacher and the textbook is the teacher and we are not a school that is so much focused on that methodology.
+For us we are an IB school international Vacular ED school.
+So as part of what we believe is we believe in inquiry we believe in student centered learning we believe in empowering students
+
+참석자 3 / 04:54
+to you know to thrive and to develop as as citizens who can thrive in the world that they're entering.
+Okay so part of the fear based and this is not necessarily to say that many of our teachers are not on this path of fear.
+I think there is certainly a continuum here.
+You can either be somewhere from the extreme of you want to ban things.
+An instinct is we need to put in AI detection software.
+We have a software called Turn it in and that
+
+참석자 3 / 05:26
+that kind of software says maybe we don't trust our students maybe they're cheating so we want to check to see whether or not they're cheating so we use that kind of software or you might ban any AI at all in the school.
+You might decide to focus more on pen and paper because you fear that if you do use computers kids are going to start using AI and you're not really sure.
+There are some really legitimate fears here and it's all they're all based on good intentions
+
+참석자 3 / 05:54
+because there are things around cognitive offloading where students may be turning over their thinking to the computer or to AI.
+There are fears about some of the negative things which are very legitimate.
+But on the other side we lean into the ethical use of AI which empowers both our teachers and students while also protecting guard rails of understanding that we do have data protection laws.
+In Korea we have a law called Pippa which I'm sure you're aware of
+
+참석자 3 / 06:22
+the Privacy Information Protection Act in Korea you have laws there's a law called the AI Basic Act if you're not familiar with that one that in Korea mandates and insists that teachers must not use AI to determine grades and scores they must always use their own judgment.
+They must disclose any use of AI in the things that they create or the things that they assign to students.
+And for us I think that's part of our DNA as a school to be human centered to be focused on relationships
+
+참석자 3 / 06:53
+and to focus on that trend.
+So by the because of the values we have in our school the idea of using a just turning over AI as the assessor is not really hopefully what we would believe.
+So this is a quote from the founder of our school Her name is Margaret Chadwick so hence the name of the school Chadwick um she was someone who really was a pioneer for her time when she founded the school way back in the 1930s in California
+
+참석자 3 / 07:23
+She read this is a quote from her book that she wrote.
+It says pioneering must be present and the fact that she really believed in this idea of being pioneering that she accepted the fact that change is something that happens in schools and we embrace change it's part of the culture of our school and our school is also a very mission driven school.
+We believe that students should develop keen minds be you know good thinkers critical thinkers have good character
+
+참석자 3 / 07:53
+we have a lot we have five essential core values things that we really instill in our students about being leaders and globally minded ethical You know So part of what we want to do is develop internally students who want to do the right thing so it's really part of our ethos and what we believe in.
+So because of that how we use AI to be consistent with who we are is needs to be aligned.
+So instead of banning things we focus more on literacy or instead of
+
+참석자 3 / 08:28
+you know we focus on the ethical use and so forth related to our our philosophy mission and so forth.
+This is our mission statement.
+So we want to develop global citizens with keen minds exemplary character self knowledge and the ability to lead.
+So these are very big things that we want our children when we we believe as a school that every child is on their own unique path and every child has their own unique gifts
+
+참석자 3 / 09:02
+and our job as teachers is to bring that out and to allow every child to thrive regardless of their unique talents or unique things that are part of who they are.
+We also have an annual goal and this year's annual goal is relationships drive our mission and we focus on three key aspects of that around leadership personalization and community.
+So this is an annual goal and as we are looking at ah this is Mr.
+Hill Mr. Hill is our head of school
+
+참석자 3 / 09:34
+Thank you for joining us.
+So these things are around here these are three key areas that we're looking at and really focusing on.
+Part of what we're looking at AI is does it have the potential if we can use AI to free up administrative tasks as teachers if you can create something much faster a policy a document maybe you can synthesize data analyze things that gives you a lot of free time to reinvest and that time we believe should be reinvested back into relationships with our students
+
+참석자 3 / 10:09
+more of those one to one conversations to empower them and to help with their learning.
+
+참석자 3 / 10:20
+One of the things with us is so what we've been doing is at the top we have our mission and what flows from our mission comes with are things like our strategic plans our annual goals and then Mr.
+Hill has his own goals for the year and one of his goals is to look at I'm the appropriate use of AI for teaching and learning and part of this process is what we've done today with our faculty in the morning was about readiness data.
+
+참석자 3 / 10:47
+It was getting a picture of where we're at as a community understanding what what tools they are using what fears do they have what are the opportunities they see what support do they need from the leadership team or from their divisional leadership team for example these are all the kinds of data that help us support you know the things that they're doing but also helps us develop common language and common
+
+참석자 3 / 11:15
+expectations and understandings.
+When we start to look at things like our curriculum and assessment policies and our academic integrity policies and so forth we can frame them with this data in mind knowing where our community is at and where we want to go so we can support those conversations.
+So one of the things that we talk about is this idea of a 1 degree shift.
+And what we mean by a 1 degree shift is each person coming up with a small incremental goal
+
+참석자 3 / 11:48
+that they can implement and with those goals they compound across the divisions to have a huge impact across the school.
+So we start with what we did today about listening seeking to understand.
+So this listening part is really understanding where our community is at.
+Now today was about our faculty.
+We also need to do this. We have some of our staff who've engaged in these
+
+참석자 3 / 12:14
+surveys as well but our next step with the rest of our staff is to go and do the same conversations with them so that we capture for both our faculty and our staff.
+And then beyond that we really need to get this voice from our student community as well as from our parent community.
+So we've been doing some parent coffee sessions and we've been capturing some of those parent voices and we have some of the voices from our students but our goal next is to expand that
+
+참석자 3 / 12:43
+to get at least a large sample of our community.
+So we are not just focusing on our leadership teams or our faculty and staff but also understanding what do our students feel what do they need and what do parents think?
+Because as a community we want everyone to be on board with the direction that we head in Okay if you have any questions at all while I'm speaking feel free to raise your hand no problem at all.
+
+참석자 3 / 13:12
+So again this is the whole community so so far it's really been the faculty so we need these are the key things that we're focused on next as part of this whole process.
+And this is the idea of a one degree shift right?
+Each person makes little goals and those goals and and part of the survey that we did today.
+So when we did the survey we used the platform and the school
+
+참석자 3 / 13:38
+so a platform that we use in the school called Flint and Flint is a platform that allows for personalized activities and personalized learning.
+And so what that survey did was it had a conversation a personalized conversation with each faculty member and the at the end of that conversation they received a report and the report helped them to understand where are you on your journey to agency where are you on this path?
+
+참석자 3 / 14:04
+What are some ideas of 1 degree shifts that you could be working on both tomorrow and maybe in the next six to eight months throughout the rest of the year All right so all those 1 degree shifts at the individual level then will flow to their teams and up to their teams we get team level goals which then
+
+참석자 3 / 14:25
+will help inform the division goals.
+So we have three divisions in our school we have our village school, middle school and upper school.
+So each team will focus on their own goals that accumulate from the individual op.
+And then we will look at is there alignment across our division between village middle and upper school?
+How do we align all three divisions together?
+So we end up with school wide goals starting with our mission at the top
+
+참석자 3 / 14:51
+all of our community at the bottom and all of that data flowing back to inform our mission.
+And a key thing that this school really believes in and takes very seriously is how well do we live our mission everything that we do in our school our curriculum and the things that we do with our students it's all about that mission alignment.
+And
+
+참석자 3 / 15:14
+I have to say I've been at different schools and not every school does this well but this is a school that really believes genuinely believes the importance of having a strong mission and evidencing that mission.
+
+참석자 3 / 15:31
+So as we look at moving forward together it's about capturing our community readiness to inform our implementation which is about taking all of that data bringing it together taking it to letting each individual know sort of what the data is telling us letting our community know taking it to the leadership teams.
+So I'm part of
+
+참석자 3 / 15:54
+the pedagogical leadership team in the school which is really about curriculum and teaching and learning focused leadership team.
+So I will take this data back to that team and really inform them of you know this is what our community is saying this is where we're at and then we will look at how we can support everyone to move us in the direction we need to go.
+And then all of this is then connected back to our mission which is our True North
+
+참석자 3 / 16:22
+and then all of it needs to be connected to ensuring the ethical use of AI ensuring that we're complying with things like PA AI basic act that we are not throwing a lot of sensitive data off to third party tools that we have no UM data processing agreements with so that we ensure that when we do use AI and give data to it that we're doing in a way that does not compromise or sacrifice the privacy of the data of our students Okay that's important as well.
+
+참석자 3 / 16:57
+So this circle here kind of shows you sort of how the data flows.
+So I talked about the mission.
+The mission is what we in the center the True North that's our mission our core values our philosophy These are the things that we hold as our compass.
+Whenever we are kind of wondering what should we do we go back to our mission.
+Does it help with exemplary character?
+Does it help them to become leaders in the world that they're going to enter?
+
+참석자 3 / 17:25
+If not then maybe it's not worth doing right?
+So we come back to that mission and so at the individual level it then flows out to their teams to the divisions all school wide with that mission guiding everything in the center.
+
+참석자 3 / 17:44
+And then this morning we gave this to our faculty and now what I'm going to show you is something I've only had a very small amount of time to look at but it's exciting and TED hasn't seen this yet and only Le Elaine of I had seen any of this.
+What I did was we took all the data from this morning and I started creating visuals of what that data is telling us so far.
+So this is very early but so far it's telling us of some key things that we've found so far.
+
+참석자 3 / 18:15
+Overall our staff are definitely more on the path of agency.
+There's a lot more curiosity than fear all right we have a strong proactive culture that believes in being proactive experimenting and trying new things which is great right?
+There's a strong mission alignment with our faculty.
+So a lot of people believe that A is a partner in developing student character in key minds which is
+
+참석자 3 / 18:42
+you know we weren't sure where this data was going to land but it's really nice to see that we've now surveyed almost 200 people.
+We started with our leadership team our administrative team today it was about 1 a total of about 180 faculty so far.
+And so this is where we are.
+And then the one thing that we need to recognize and I think we're aware of is UNEV of adoption right there's varied comfort levels
+
+참석자 3 / 19:09
+and there's a need for more personalized and personalized and I'd say differentiated support to make this happen some of the friction points that people have time and workload right this is always a frustration in every school.
+I think you have limited bandwidth to evaluate tools and redesign lessons.
+You have a lot of people are confused and rightfully so about what are the legal requirements right how do they ensure compliance with things like PA the basic AD
+
+참석자 3 / 19:43
+and people need a little clarity on that because they're not always quite sure.
+And then people want to protect human connection which is I think a great value is something our faculty strongly believe in.
+They want to ensure that it does enhance the relationships with our students and teachers and that's our ultimate goal and that ties back to our annual goal.
+Relationships drive our mission
+
+참석자 3 / 20:05
+if we can use these tools in a way that protects that relationship between our students and our teachers.
+And you know one of the things a real challenge and I have it is something I definitely see in our in our upper schools.
+As students get older there's a lot of challenge around you know students using AI and cognitive offloading and turning things in and this kind of fear that is this authentic.
+Now what we're getting
+
+참석자 3 / 20:36
+is there a lot of AI generated content and that can threaten those relationships between the student and teacher and we hold those that relationship is extremely important in our school and we don't want to see that threaten we want to protect that relationship because it's really important.
+And then here okay strategic alignment So I'm basically reading these slides because I just literally got the data okay but we're seeing
+
+참석자 3 / 21:05
+between one to three hours of reclaimed time weekly based on what we've seen so far okay personalized learning um it's having tailored instruction ensuring human connection and we want thoughtful leadership.
+I really we do need to dive into this data more to really full out an understanding of what it all means okay but when we look at expanding our readiness again our next steps so far you can see we've really focused on our faculty and leadership team so far.
+
+참석자 3 / 21:36
+Next is to focus on our local staff parent community and student body.
+And once we have all of that data it's really about them conversations of where do we go now with but there is nothing that we will compromise when it comes to our mission our true norm all this data will come together and say how is this going to help us with what we believe which is our mission our vision and our philosophy and then the rest of this we're hosting an event later in October.
+
+참석자 3 / 22:13
+This is part of the next steps.
+This is an event where we bring our entire sorry it's an event where we're it's an invitation for our students our faculty our parents our alumni all to come together in one room to share the cool things they're doing with AI.
+This is more of a celebration and to have conversations.
+So we're going to have a panel we're going to have a panel with a student
+
+참석자 3 / 22:38
+with a couple of students maybe one in our village school which is elementary school hopefully one in our upper school high school and then probably a faculty member a parent and maybe someone from my team so that we can capture the different voices.
+So this is part of this is part of the conversation this year.
+It's bringing the community together sharing looking at what's you know because part of what what I'm hoping for this event is the exciting stuff.
+
+참석자 3 / 23:08
+My team is creating amazing stuff like we've been creating a like really apps and lots of different resources for our community because now with a lot of the TW whether if you have used any of the tools like Clock Code or some of these tools but with these new tools it freeze up the ability for a non coder to be able to do amazing stuff and a very fraction of the time of what it would have traditionally taken.
+
+참석자 3 / 23:37
+My team is able within a two or three week period to create an entire app for the community for example.
+So we're gonna celebrate those kinds of things and then these are some additional things we didn't go into any of these in our presentation but essentially this was about data guidelines.
+So we have a data protection policy and it's a long 30 page document that's very technical and legal type language.
+So we try to digest that down into key things that people need to be mindful of right
+
+참석자 3 / 24:11
+anonymize your prompts don't feed personal student data into AI even when you have AI platforms like Google Workspaces that we feel we have data processing agreements with.
+The best practice is to always try to protect that data regardless so anonymize don't tie their student names to all of their personal data that's connected with it.
+Use vetted platforms we have key platforms we use Google Workspace We use Jemoni in Jemonai there's a lot of tools so we have things like
+
+참석자 3 / 24:42
+AI Studio for people who just want to play around with BB coding and creating things.
+You have anti gravity if you want to go a little deeper be a more of a professional coder and tie that in we have tools like Jammani Notebooks which allows you to take
+
+참석자 3 / 25:03
+no Ing. I found this quite funny because we were presenting we were we were presenting in the morning and it was we were talking about the path of control and fear and then that went off shortly after I thought kind of you know it's must be cheating we must check so don't cheat Yeah so these are all sort of things right mandate the human in the loop.
+We always insist the human is
+
+참석자 3 / 25:39
+the decider of a they're the one that knows the student they're the one that has a relationship with the student.
+We do not want AI making those decisions and that's actually if you're not aware that's part of the requirement of the AI Basic Act.
+In Korea they treat assessment as a kind of a national security kind of thing as we can see with these alarms right and then yeah so a lot of these kinds of things around here cure assessment use official systems healthy practices and so forth.
+
+참석자 3 / 26:10
+And then these are our key vetted tools in our school.
+So we use Gemini as our key thing that within Google Drive and Jammonite.
+And then the other one we have on the other side is Flint AI.
+That's a platform that we encourage when people want to use personalized learning with students.
+You want to create activities that allow students to have a personal tutor where you can see their thought process and growth
+
+참석자 3 / 26:35
+in a way that they're accessing an AI platform but in a gated way.
+And it allows you to see their thinking like a visible understanding of what their thought process is from where they started to where they got to.
+So that whole conversation about did they use AI and cheat well this is more yes they use AI but they used it to deepen their thinking.
+And then it's also a platform that allows us to then pull out analytics that ask questions like you know which students
+
+참석자 3 / 27:07
+are needing more support which students have mastery level?
+Where did I fail in the curriculum?
+Where's the gap? Where do I need to go back and reteach if all of my students seem to be struggling on something that I've taught them these are the kinds of questions you can ask and to me that's the exciting thing.
+Imagine you all have a class of 30 students or 40 students or whatever number you have and you cannot differentiate for every student in your class.
+You have to teach to the middle
+
+참석자 3 / 27:33
+you have to teach the same curriculum and hope that most of the students get at least most of it with with these AI platforms.
+I think the biggest opportunity is the ability to both personalize not to replace the teacher to assist with giving teacher students the ability to think with AI not letting AI think for them
+
+참석자 3 / 27:59
+and giving the ability for teachers then to get a much deeper understanding of where every student at we do some testing in our school called map testing.
+I don't know if you use like testing where you try to capture once or two or three times a year like where are my students at in these different subject areas and we use that data to kind of help students with a platform like this With these AI platforms Now you can get data every single day and you can adjust your data for your student not
+
+참석자 3 / 28:27
+wait twice a year. You can do it now today tomorrow next day you can get real time data on exactly where my students are at and where they're grow.
+That's the key stuff I wanted to get through today.
+How did I do? It? Took twenty five minutes okay and then these were some additional resources we shared with our teachers.
+
+참석자 3 / 28:46
+So essentially what I walked through with you today was our presentation from this morning.
+I didn't want to create something that was different from this because this is exactly where we are right now as a school.
+I don't want to tell you that we're at a place that we're not at.
+We are like any other school we're on this journey.
+This is a technology that's surrounding us It's coming at us it's like a tsunami and we're adjusting and
+
+참석자 3 / 29:11
+our approach is we're human centered we're mission driven and we will not put our finger in the air and say you know where should we go we know that that's what we believe in so everything we do is tied to that.
+TED Did you want to say anything at home?
+It's good. I think T TED would back up pretty much the same.
+10 TED is a big reason why we really have such a strong mission.
+He's a very very mission focused leader and it's evidenced I think in the data that we have.
+
+참석자 3 / 29:49
+So what I'll do now is turn it over.
+If you have any questions at all about sort of where we're at and if you want to ask us anything at all
+
+참석자 3 / 30:08
+Yeah you can use the Mike for translation hopefully it will translate back into
+
+참석자 6 / 30:16
+기본적으로 여기 근무하시는 선생님들 교수 역량이 매우 뛰어나실 텐데 계속 변화하는 어떤 AI나 ICT 기술들에 대해서 어떻게 학교 내에서 연수 프로그램을 운영하고 있는지 교사 연수 프로그램에 대해서 궁금하고요.
+첫 번째는 두 번째는 여기 아까 디비나이나 프린트 AI처럼 학생들이 여러 가지 AI 프로그램들을 이용해서 컨트롤 이나 콘텐츠들을 만들고 있는데
+
+참석자 2 / 30:47
+그런 것들이 학생들의 어떤 사고력이나 이런 것들이
+
+참석자 6 / 30:52
+제한하거나 그런 염려 그런 것들은 없는지 학교에서 실제 수업에서는 AI를 학생들이 어느 정도 수준까지 학습에 활용할 수 있도록 허용해야 하고 있는지 그런 것들이 좀 궁금합니다.
+
+참석자 3 / 31:07
+Okay so I think I got part of that.
+So part of it was about teacher training.
+How are we providing professional development for our faculty
+
+참석자 3 / 31:29
+coaches? And then we have another coach in our village school.
+So part of their role is to help work with our faculty to provide training in terms of how they can leverage technology not just AI but how they can leverage technology to really enhance and feel free if you want to answer that question as well.
+
+참석자 3 / 31:50
+But what we're really hoping from this data that we got today and other data that we've had from our faculty is to really be able to better personalize the professional development needs for them.
+Because this data because it's done at the individual level and we will be able to ask the questions at the grade level at the division level it gives us the opportunity to really tailor some of the professional development for them.
+Did you want to add anything to that one?
+야
+
+참석자 3 / 32:26
+I think so hopefully oh maybe not yeah because it's over here.
+Sorry 마이크 another
+
+참석자 7 / 32:36
+I think when I work with the teachers I often say that the learning comes first.
+So what I mean by the learning I respect that students learn differently.
+So there's a lot of strategies we can use to show concepts differently making learning accessible for the different types of learners.
+And I think in this respect technology and AI is a great leverage and equalizer.
+So you know you're more of a visual learner and you can't listen very well.
+
+참석자 7 / 33:11
+I think the AI provides as you mentioned not only personalized learning but creating learning experiences so that the students can graph these concepts differently.
+
+참석자 3 / 33:25
+Thank you. Okay anyone else have anything?
+And I'm sorry there was there a second part of that question I got that part I didn't capture the rest.
+
+참석자 6 / 33:37
+AI 사용했을 때 지금 보니까 재미나 플린트 AI를 활용해서 학생들이 콘텐츠나 생성을 굉장히 많이 하고 있는데 그 기본적인 수업에 있어서도 이런 AI 등을 활용해서 학습이나 과제를 하는지 궁금합니다.
+
+참석자 3 / 34:03
+So if I understood correctly you're asking the students use the AI like Jevoni to do their class work is that sort of is is that kind of yeah I mean so one of the things that we're really trying to because I think one of the things that we need more clarity on what is allowed and not allowed and what is expected and not expected for our teachers across different grade levels in terms of what use of AI students can use.
+
+참석자 3 / 34:34
+But to go back to our core values we really want students to be very honest in terms of how they use it.
+We want them to use it in a way that's aligned with our academic integrity policy with the values that we believe in.
+But yes students are using when we do ask students to use these tools we do ask them if they do have access to Jemoni all the way down to about grade five.
+I'm we have JAMA available for them.
+I'm they don't have access to certain tools like 지피티
+
+참석자 3 / 35:06
+or Claw or some of these other tools.
+Technically those tools are not age appropriate because of the age requirements to use those tools is eighteen generally.
+So do we do discourage teachers from using tools with students that are not age appropriate?
+That doesn't mean that students are not using those tools many of them are many of them are using CLUD and doing amazing things.
+If any of you have experienced using CLUD if you're a coder
+
+참석자 3 / 35:35
+and you want to create apps and you want to create games and so forth Clot is an amazing tool.
+I don't want to tell students they can't use clot but our teachers can't use CLOT in a middle school classroom but they may be able to use it with our older students if the students are old enough.
+But I don't know if that quite answers your question but part of the challenge is we do know the students are using a
+
+참석자 3 / 35:59
+but we also want to guide them on the appropriate use of it being very ethical.
+Yeah yeah yeah sure thank you.
+
+참석자 8 / 36:12
+So thank you and welcome.
+I just give an example. So just in the past week our pre kindergarten kindergarteners in grade 1 students redesigned our playgrounds using AI.
+So they had their ideas and they spoke what their ideas were and AI came out with actual models of the playground for the children to look at.
+And these are children that are four five and six years old so without AI there's no way they could have possibly done that and it was so rewarding and
+
+참석자 8 / 36:46
+reinforcing to them to see their ideas actually take shape in these models.
+So appropriately used it can be helpful.
+I mean you can imagine those kids felt they were kings and queens of the world to see their idea about a playground actually see a AI generated photo of.
+So again we believe that appropriately used it can actually really help us accomplish what we're trying to accomplish.
+
+참석자 3 / 37:16
+Thank you. Yeah our Tech educational technology coach in the village school he's done some really good stuff with students.
+And one of the students attended a an AI event last year in Incheon where the student won and those students in grade five as part of their PYP X which is a it's a combination of the PYP which is the elementary school IB program called PYP Primary Use Program.
+
+참석자 3 / 37:45
+They did a whole thing where they researched about the transportation system and they they created models using AI with the help of Mr.
+Garvin who is the ECH coach.
+And they looked at they went to Jeju and looked at Jeju Island and they they created a Model of what a transportation network could look like and they visualized it and they did research of other transportation systems around the world.
+And ultimately that project led the kid to go off and he's gonna be on the panel
+
+참석자 3 / 38:15
+for the event on our 28th as well.
+He's now in grade six in our middle school but what they did like he's still very excited about that a year later and that was just part of his Pyp.
+But I would argue as well with when it comes to AI thinking of younger students in elementary school as well there are a lot of things that you can talk about related to AI with younger students without even having them actually use AI as well.
+There are certainly conversations about you know
+
+참석자 3 / 38:44
+some of the things that come up about the training and how the training is done and bias and you know how these things can be prone to not be factual and the importance of being a good thinker and checking the facts I'm a lot of this can be integrated into your curriculum and units without even talking about AI itself or using AI.
+But in the case of G in the case of Mr.
+Hill was talking about you know with the guidance of teachers the youngest students can do amazing things.
+
+참석자 3 / 39:17
+Yeah thank you. Is that is that the exam one too Wow Are there any other questions at all?
+Thank you. You do much better than our parents our parents usually very quiet when we ask.
+
+참석자 1 / 39:33
+궁금한 게 미국 같은 경우에는 이제 학생들이 자기가 사용할 스마트 기기를 스스로 갖고 다니던데 여기서는 학생들에게 어떤 AI를 사용할 수 있는 패드를 지급하는지 아니면 학생들이 스스로 가지고 오는지 그거를 궁금하고요.
+그다음에 또 지금 제가 봤을 때는 학생들이 결국에는 대학교를 입시를 위해서 어쨌든 교육 제도가 대한민국에 맞춰져 있는 것 같은데 그런 평가에 대한 학부모님들의 기대가 있는지 어떤 대입에 대한 그런 기대가 있는지 학교에서 그런 것들이 궁금합니다.
+
+참석자 3 / 40:09
+I'm not sure if I really understood.
+Are you talking about like devices like Are you talking about things like AR glasses or those kinds of things
+
+참석자 9 / 40:17
+스마트
+
+참석자 3 / 40:19
+Oh so our students well in terms of we don't have specific AI.
+In terms of our learning our students from grade 1 they bring their own ipads to school from grade 1 to 3 they're using ipads and then from grade four to 12 they bring their own MAC books to school.
+In terms of devices I'm when it comes to things like phones and any other kinds of smart watches or you know Samsung now has their smart glasses which you can use to cheat on an accounting exam right um did that translate?
+Yeah now um but
+
+참석자 3 / 40:55
+we have generally for things like smart devices students leave them in their lockers they do not bring them into classes Generally I'm not sure if I'm answering your question Are you sort of asking what devices students bring?
+Is that sort of is there a follow up to that?
+Maybe I didn't answer your question.
+
+참석자 1 / 41:14
+고장을 뭐라고 하지? 저거 고장이 났을 경우나 아니면 뭐 보험 처리라든지 이런 것들을 어떻게 처리하는지 게 보니까 미국 같은 경우에서는 거의 대부분 이제 교육청에서 다 처리를 하더라고요.
+근데 대한민국은 거의 학교에서 다 처리를 하니까 이런 것들은 여기서 어떻게 처리하는지 좀 궁금합니다.
+
+참석자 10 / 41:35
+얘는 가민이 입학 시킬 것 같은데요.
+
+참석자 3 / 41:40
+So our school is a BYOD policy if that's what you mean.
+So in terms of responsibility for if things break it's on the students themselves.
+So students bring their own devices they're responsible for their own device they're family owned devices.
+The only devices that we purchase for students is in our kindergarten.
+In kindergarten we have a class of of ipads but from grade one on it's student owned family owned devices that they take responsibility for.
+
+참석자 8 / 42:11
+And you might remind me that we have loaners for students who can't afford it.
+
+참석자 3 / 42:15
+Oh yeah so so we do have some students that we do provide devices for a loaner ipads or Macbooks.
+If there is a financial need we will support them.
+And we also have my team my technology team is over here.
+We have also loner devices for students to come in to borrow devices at any time.
+And when students have a device maybe if it's broken or if there's another issue we always provide them with a loaner device or they loan it out for a period of time usually about two weeks or so.
+
+참석자 3 / 42:50
+But yeah we always ensure that students have devices but for the most part our students are responsible to bring their own devices and I would say for the most part we do not have major issues with.
+The only issue that we struggle with sometimes is for the younger students in getting parents to install the necessary apps and things that are needed
+
+참석자 3 / 43:11
+or they sometimes put on like screen screen time and it locks the student out of their iPad during the middle of the day.
+But those are usually the kinds of issues we have to deal with.
+Yeah suddenly like you have a limit of thirty minutes and then they can't use their learning app.
+
+참석자 6 / 43:46
+저희 기관은 그거는 저희 부서로 충남의 아비 학교를 담당하는 부서도 있고 또 저희 부서는 충남의 이제 AI 교육을 담당하는 부서인데 사실 아이비 학교와 AI가 부서 간에 서로 협력이나 이런 게 잘 되지 않고 각자의 업무를 하고 있는데 여기 보니까 아까 IB와 AI가 융합돼서 여러 가지 산출물들이 나온 사례들을 설명해 주셨는데 아이비 교육 과정 안에서 AI나 ICT가 어떻게 수업에 적용되고 있는지 조금 더 수업에 어떤 교육 과정 측면에서 설명을 듣고 싶습니다.
+
+참석자 3 / 44:28
+Yeah I'm not sure if I understood.
+So some of your schools are IB related schools one of the things that this school is really good at doing is actually working with IB schools.
+We've worked with the Daegu Office of Education we're working with the Incheon Ministry of Education to work with the collaboration with IBM.
+Not I don't want to promote any book but I had written a book called
+
+참석자 3 / 44:52
+Designing for Agency which was written in English about human centered.
+And one thing that we've done is we've also translated the book into Korean.
+And this focus is not so much on AI it's about change management in schools that has how you can deal with change to ensure that it's human centered.
+And the idea of this book when we created it was that we would work with the Ministry of Education especially the Incheon Office of Education so that we could do teacher training programs
+
+참석자 3 / 45:24
+connected to AI but also would be very much connected to our inquiry approach around the idea as well.
+I'm not sure if I'm answering your sometimes the translation I'm not sure what the question is exactly.
+
+참석자 7 / 45:47
+I think it would go back to my point about what that learning it would go back to the point about what that learning goal is such as in math when the teachers are creating their units IB units down to their lesson plans they are planning an instructional design of what type of experience do we want the students to receive in order to acquire or transfer that knowledge So I think it's not an easy answer to say how we use AI but again
+
+참석자 7 / 46:26
+I think the best response is that the curriculum and the learning comes first as a technology.
+We're looking at what's the goals and then seeing how we can leverage technology.
+So it could look very different depending on
+
+참석자 3 / 46:41
+but that being said we're also very much it's very much an inquiry focus.
+So the way that we use with AI would be to really promote that inquiry focus not to necessarily give the answers in terms of our like policies around the appropriate use of AI.
+Our academic integrity policy very specifically refers students to the requirements of the IB about that they're allowed to use A but it needs to be done in a way that's
+
+참석자 3 / 47:10
+aligns with what's acceptable.
+And this really just ties into the appropriate use of sighting things properly and no different than with other resources that you're using.
+Is there anything you want to add to that one?
+I'm not really the expert on that one.
+
+참석자 5 / 47:34
+이 학교에서 학생들이 학년을 올라가기 위해서 평가나 이런 것들은 어떻게 이루어지는지 한국에서는 여전히 오늘 수학능력 시험에 객관식 시험 같은 그런 평가들이 많이 있는데 이 학교의 평가는 어떤 서술형으로 이거 가지고 하는지 그리고 그 서술형은 종이에 써서 한 건지 아니면 컴퓨터 기반으로 이루어진 건지 어떤 식으로 평가가 이루어지는 건지 그리고 두 번째 질문은 이 학교를 졸업한 학생들이 대학 진학은 어떻게 되고 있는지 내용이 궁금합니다.
+
+참석자 3 / 48:20
+Can you help me translate this sort of the gist of what we're getting it
+
+참석자 3 / 48:42
+are there are there exams as students move from grade to grade?
+Is that the question?
+
+참석자 8 / 49:01
+So we don't have end of year exams for children to go from grade to grade.
+We use holistic all year assessments and so the teacher has the opportunity to observe them through the entire year so they already know what the student can do and what the student can't do.
+We do not give high stakes exams at the end.
+That said 999 percent of our students progressed from one grade to another because they learned.
+
+참석자 8 / 49:32
+And if we find out that they're not learning we intervene much earlier in the school years not the end of the school year.
+With regard to our graduates' use of AI I'm not sure exactly what you're referring to.
+It's interesting. Some of our graduates have created a program to be able to test what you know using AI but they've done very very well but I'm not sure what the question was about our graduates.
+
+참석자 2 / 50:03
+For the graduate he asks about how they entering the university
+
+참석자 3 / 50:09
+so it's part of our DP program.
+I guess
+
+참석자 8 / 50:12
+eighty percent of our students go to college in the United States only about 2 percent of our students go to school in Korea go to college in Korea so they go through the normal US admissions process or the UK or Japan or Australia or wherever it is.
+We have memoranda of understanding with Seoul National and Yonsei and Korea and KAIST as to how our students will go about managing the admissions process to those universities in Korea.
+But again it's it's a very small number.
+Most of our students
+
+참석자 8 / 50:48
+are headed overseas and they just follow the regular plan.
+
+참석자 3 / 50:55
+Thank you. Yeah so I mean the IB curriculum they have a program at the end diploma program so there are exams in that diploma program but it's not like the traditional Korean a system maybe a little bit different.
+
+참석자 5 / 51:12
+그냥 몇 퍼센트 미국 대학원 가는 학생들이에요.
+
+참석자 1 / 51:22
+그러니까 어차피 한국 입시가 필요가 없는 학생들인 거예요.
+그러니까 이제 달라 그러니까 그냥
+
+참석자 1 / 51:32
+그러니까 어차피 그러니까 너 하고 싶은 대로 다 해줄 수 있다는 그런 학생들입니다.
+2만
+
+참석자 3 / 51:37
+diploma program is that's part of the IB and they are exams at the end for
+
+참석자 1 / 51:45
+DP가 정확히 뭐예요?
+
+참석자 3 / 51:46
+You're usually recognized by universities globally.
+When my son went to university my son did a IB degree as well and he did a diploma program.
+When he entered university in Canada about four of his courses were already given to him because they considered some of those DP courses equivalent to first year university courses in Canada.
+
+참석자 1 / 52:13
+고등학교 때 2년 동안 하는 거구나
+
+참석자 5 / 52:17
+는 1학년 들어오면 12학년까지는 거의 큰 시험 없이 내부에서 애들이 발전하고 있다는 걸 믿고 그냥 뭐라고 그래야 돼 그냥 성금을 학년은 올라가고 고등학교 마지막에서는 집필을
+
+참석자 1 / 52:34
+미국은 이런 평가가 왜 중요하냐 이런 논 도더라고요.
+그러니까 왜 가서 그냥 좀 열심히 하면 되지 약간 대학교 때가 솔직히 중요하지 않잖아요.
+이 사람들은 대입을 위한 전혀 지금 그런 게 없더라고요.
+여기도
+
+참석자 10 / 52:48
+지금 우리 질문을 의도를 이해를
+
+참석자 1 / 52:52
+왜냐하면 이게 다릅니다. 문화가 달라요. 이게
+
+참석자 2 / 52:55
+apply for university
+
+참석자 1 / 52:57
+우리는 공정해야 된다 대학교 갈 수 있어야 된다고 생각하는데 여기는 애가 성장하면 되지 말을 잘하면 성장하는 거 아니야 뭐 이렇게 역량
+
+참석자 8 / 53:05
+They receive grades at the end of every year but the grades are based on a
+
+참석자 1 / 53:10
+문화적으로
+
+참석자 8 / 53:11
+work not on a final examp
+
+참석자 1 / 53:13
+평가라는 거에 대한 생각이.
+
+참석자 8 / 53:14
+And even with the DP the vast majority of American universities do not look at DP exam scores.
+The students are admitted in April to us universities at the latest and the exam scores don't come out until July or August.
+The great majority of American universities do not care about the IB exam scores.
+So that said our students care very much about the IP exam scores so they work very hard to score high but that only comes at the end of twelfth grade
+
+참석자 2 / 53:53
+가네 가능합니다. 뭐 like student coming to our school starting from like grade five or grade 10
+
+참석자 8 / 54:08
+Yes oh yeah yes we do have we do have students come in the greatest number of students come in as you might guess the little students and then they go all the way through but we do have students that come in at pretty much every single grade level.
+There are a few students who come in because often a lot of our students are international and they may get transferred their parents may get transferred into Korea when they're in fifth grade or ninth grade and so we try to be accommodating.
+
+참석자 8 / 54:47
+Thank you. I'm glad you're here.
+I mean it's a different system.
+Yeah
+
+참석자 3 / 54:54
+Okay Yeah my apologies. I'm not really some of your questions about the curriculum side of things.
+I have a general understanding but I don't want to say things that are not correct about about how the IB curriculum works and but it is quite different from the traditional Korean.
+Maybe the Korean system is a little bit more um examed focused and the IB is a little bit they have in the IB at the end of each
+
+참석자 3 / 55:22
+the part of the IB from the primary years program like they have PYP and then MYP which is middle years and then DP the students will have like PYP as they call Pypx.
+It's a celebration it's a big project that they do where they really dive deep into an area of interest which is designed to bring with all the skills that they've learned
+
+참석자 3 / 55:46
+throughout the Pyp. So there are those kinds of things as well and what we really hope is the things that they're choosing to really explore are tied to our mission and we're looking at trying to get that data to help us tell that story and a lot of our students are choosing it's amazing the kinds of topics they choose to inquire about.
+
+참석자 3 / 56:14
+Thank you very much for coming.
+We really appreciate you and welcome to Chadwick and we hope you've enjoyed your visit here.
+If you have any questions afterwards feel free.
+I'm here so you can ask if you want.
+Thank you. Okay thank you.
+Thank you for coming. Yeah thank you.
+
+참석자 2 / 56:40
+그러면 저희는 다음 장소로 이동을 좀 해볼
+
+참석자 1 / 57:20
+같 같이 그 선생님도 만들고
+
+참석자 3 / 57:33
+Thank you again for coming.
+Okay okay together
+
+참석자 5 / 57:46
+이쪽으로 이쪽으로 주세요.
+
+참석자 3 / 57:54
+Do you want me to turn off the projector completely?
+
+참석자 11 / 57:57
+여기 체중이라고 딱 써 있으면 최고죠. 여기에 체중이라고 딱 써 있으면
+
+참석자 2 / 58:40
+one 2 3 노원의 스마일레이
+
+참석자 2 / 58:59
+다른 장소를 사용을 해가지고 짐은 이제 가지고 오셔야 돼요.
+거고 여기는 이제 중학교 건물이고요. 그리고 체육관이 있는 편의시설이 있어요.
+중점적으로 보시고
+
+참석자 5 / 59:18
+교실 저쪽 중등이 여기 쪽 그다음에 체육관 있는 뭐 체육관에는 어떤 그냥 운동시설 쪽인가요?
+아니면 뭐 뭐가
+
+참석자 2 / 59:26
+네 운동 시설과 수영장이 있는데 규모가 아마 한국 체육관이랑은 조금 달라서
+
+참석자 5 / 59:33
+체육관이랑 그러면 중등을 이렇게 한번 직접 들러볼까요?
+
+참석자 2 / 59:37
+네네 여기 중학교라서 교실이 행한 곳도 있고 한데 저희가 지금 수업 시간이라서 한번 지나가겠습니다.
+
+참석자 5 / 59:48
+왜 이렇게 자주 울리지?
+
+참석자 2 / 1:00:18
+저희가 산정하는 기준이 인가를 받으면 외국 교육 기관은 초원을 인가를 받아요.
+총면적이 280명이고 얼마?
+
+참석자 5 / 1:00:28
+280년 초원이요 네 그런데
+
+참석자 2 / 1:00:31
+1460명이가 있다. 그거는 이제 현원이고요.
+이 2080의 30%가 이거부터 말씀드릴게요.
+처음에 2010년에 개교했을 때는 총원 280명의 30% 그러면 624명이잖아요.
+근데 저희가 3년 4년 정도 있다가 조금 교육감이 이제 조정 권한이 있고 저희는 이제 40% 네 교육감님 네 처음에 승인은 저희가 교육부 장관님한테 받았고 중간에 이제 권한이 시도교육청으로 내려와서 지금은 저희가 832명입니다.
+2080명에 40% 40%까지 네 총 50%까지 늘릴 수 있어요.
+
+참석자 5 / 1:01:17
+그러면 처음에 인가받은 거 기준으로
+
+참석자 2 / 1:01:20
+인가는 저희가 이제 건물 크기와 교실 크기로 이제 해서 총 네 정원을 인가를 하는 걸로 알고 있고요.
+
+참석자 5 / 1:01:28
+이거 40% 우리 2080년인가 40%
+
+참석자 2 / 1:01:30
+네 832명이 외국인 재학생 수입니다.
+
+참석자 5 / 1:01:37
+그러면 한 이제 학생 현원으로도 보면 한 6 대 4 정도 정도 되는 거네요
+
+참석자 2 / 1:01:43
+현원으로 말씀드리면은 그 정도가 될 수도 있겠네요.
+왜냐하면 832이고 아까 1460이라고 말씀드렸으니까.
+네 그 정도 물건 네 여기 학교 저희가 정보 같은 거 띄워주고 시간이 제가 3시 반까지 맞춰드리면 되나요?
+버스로 이동을 하실 때 네 그럼 이쪽으로 이동을 하시겠습니다.
+가면서 저 스크린 다시 한 번 살짝 보시면 데이 7 보이시나요?
+월요일 옆에 데이 7이라고 써 있고 화요일은 데이 8 수요일은 다시 데이 1위에요.
+한국은 워라 수목금 시간표인데 저희는 데에 시간표를 써서 로테이션을 합니다.
+장점은 대체 공휴일이 생겼을 때 월요일 수업을 지킬 수 있어요 한국 학교는 아마 월요일 수업이 대여섯 번 빠지는 게 있을 수 있어요.
+한글날 찬 육수 하면
+
+참석자 1 / 1:02:39
+막 10시간 차이 나요.
+
+참석자 2 / 1:02:55
+영희가 놀아서 먹던 모든 시간이
+
+참석자 2 / 1:03:41
+집에 온 듯합니다. 특이한 게 화장실이에요. 네 일반 학교에는 남자 화장실 여자 화장실이 있는데 저희는 이제 성중립이라고 해서 이런 화장실을 해놨습니다.
+
+참석자 2 / 1:04:08
+모든 게 좋다. 여기가 사진 찍으시면 잘 나오는 데 중에 하나거든요.
+저희가 한번 오시면 저 문이 적인 문이나 이런 건가요?
+네 저 문은 졸업식에만 사용을 하는 거고 문은 저 새 철문 말씀드리는 거예요.
+위에는 한국이라서 그냥 해놓은 거고 밑에가 잘 보시면 영어로 c r이라고 다음에 다이아몬드 맞아.
+근데 이제 저희 본교가 미국 캘리포니아 주에 있는 학교인데 동조의 전통 행사 중에 하나가 저거예요.
+저기는 이 CS라고 돼 있는데 졸업식 날만 저 문을 열어주고 너네가 세상을 향해서 나아가라라는 의미로 저희가 해놓은 거고 졸업식 때만 한국에서도 사용을 합니다.
+걸 수 있게 졸업식 때는 그건 아니고 저거를 빼서 저 야외로 옮겨요.
+그래서 실제로 네 이거는 다 살아 있는 생활입니다.
+그리고 저 깃발
+
+참석자 2 / 1:05:23
+저희가 9월 달 기준으로는 55개국이 있었는데 계속 새로운 나라에서 또 학생이 들어오고 아니면 전학 가기도 하고 해서
+
+참석자 2 / 1:05:36
+대한민국 도 안 보이는데 어 뭐가 안 보이신다고 대한민국 태극기가 태극기 만약에 없으면 다른 행사가 있어서 잠깐 빼가는 것 같아요.
+네네네. 여기서 이제 빼갔을 것 같아요.
+
+참석자 1 / 1:05:51
+거 광화문 갔나
+
+참석자 2 / 1:05:55
+그리고 위에 보시면 아까 포어 벨을 찍으셨는데 저희 그 해칭 같이 5개가 깃발로 것 같아요.
+네 저희 학교 곳곳에 있어요.
+
+참석자 1 / 1:07:13
+근데 주먹 떼지 않으냐고 싸우잖아요. 그러면 안 되니까
+
+참석자 2 / 1:07:22
+그 옛날 9학년 애들이 9학년으로 따지면 우리로 치면 중 3 정도 되는 거고요.
+저희 학교 기준으로는 9학년이 고등학교 1학년이에요.
+
+참석자 1 / 1:08:22
+보내걸요. 뭘 보내줄까 다 없어.
+
+참석자 2 / 1:08:35
+예술 교육과정 학교에서 평가한 내용이 평가하면 정확도가 이 정도가 되더라.
+
+참석자 2 / 1:09:54
+있어 뭘 면 된다고 뭐가요 뭐가 돼 주식 하다가 중간에 안 되면 건 주식이 무조건 된다는 게 없는데 하다가 더 없으면 내가 한다고
+
+참석자 2 / 1:10:41
+정말 서부이다.
+
+참석자 2 / 1:11:04
+오늘 보니까 표정이 밝지가 못해요. 어떻게 하셨죠?
+네 감사합니다. 저희가 예전에 세션 했을 때는 저런 영어 되시는 분들이 오셔가지고 보시거나 아니면 저희가 썸머리만 해드리면 사실 내용 전달이 100% 안 되잖아요.
+그래서 이번에 처음으로 실시간을 했더니 조금 시행 차고가 것 같긴 한데 제 생각에는 저희가 강연 같은 거 할 때도 더 쓰거든요.
+네 훨씬 좋을 것 같은데 오늘 부탁을 해서 일단 준비를 한 거라서 운동을 하면서 조금 아쉬운 부분이 제가 보이긴 했는데 다음에 혹시 뭐 다른 기회가 있을 때 네 보완을 하면 좋을 것 같아요.
+
+참석자 2 / 1:11:59
+왜냐하면 그러면 시간 반을 버리게 되잖아요. 생각을 하고
+
+참석자 2 / 1:12:42
+자제분을 너무 잘 키워주셔서 재단에서 학교 부지랑 건물을 다 기부를 해주셨어요.
+
+참석자 5 / 1:12:49
+스크기는 4명 키우는 4명 중에 하나가 재벌가의 연애가 있었는데 그냥 잘
+
+참석자 2 / 1:12:57
+해서 저희 재단 이름이 러슬러 체드입 파운데이션이 됐고 미국은 그 기부하는 금액이 우리랑은 좀 스케일이 다르더라고요.
+그래서 나중에 혹시 기회되시면 캘리포니아 주 다운타이 다 보이는 되게 지대가 높아요.
+네 거기 지대가 높을수록 조금 좋게 평가를 하더라고요.
+지역을 그래서 거기에 본교가 이렇게 다
+
+참석자 2 / 1:13:32
+오늘 수업 시간 내내 이야기 했던 미션이 저희 홈페이지에도 있고 없는 데가 없습니다.
+
+참석자 1 / 1:14:12
+빌리 스쿨이 저기인가 봐 유치원인가 봐 여기가 5학년까지 이게 초근이 5학년이잖아요.
+
+참석자 2 / 1:14:36
+네 맞아요. 초등은 달임제라서 다 선생님은 1학년 a반 담임선생님 교실에 있는 거고 중국학교는 교과목제라서 수 선생님은 학실 수도 있지만 내 담당 학생이 담임처럼 20명이 있다.
+뭐 이런 식으로 학생을
+
+참석자 1 / 1:14:53
+다목 접 멀티 퍼포스 다목 접시
+
+참석자 11 / 1:14:58
+체육관이라 이게
+
+참석자 1 / 1:14:59
+조금 작은 공간을 다 조시라고
+
+참석자 2 / 1:15:09
+그러니까 멀티 퍼피스이라고 다목적 신이라고 번역을 하게 되는데
+
+참석자 2 / 1:15:32
+알아서 다 지워주겠죠 그런 것까지 다 있겠죠
+
+참석자 2 / 1:15:51
+건물 네 가지 면에서 다 문을 열면 바로 놀이터로 이어지게 설계를 했습니다.
+저희 학교 설계자가 우리 한국의 렌드라 건물을 롯데 타워 전시에 진짜 이거랑 여기 동북아 타워라고 해서 비슷하게 거의 사장 같이 생긴 그리고 삼성전자 서울 사업이라든지 고 건물을 등장하신 분이 저희 서 판매를 하셨어요.
+군산 지역에
+
+참석자 2 / 1:16:27
+오크드라고 얘기하면 좀 힘드신데 그냥 거기 사장 하면 다 아시더라고요.
+그리고 네 여기 행정실 아까 전에 교무실이 없다고 그랬잖아요.
+선생님들이 이런 공간에서 이제 회의를 하고 하게 됐습니다.
+저거 지금 하는 과정을 잠깐 설명을 드리면 학생들이 봉사 활동 하기 전에 선생님들한테 보고를 해요.
+내가 만약에 이런 활동을 할 건데 이 활동비가 뭐 10만 원이 필요하다.
+발표를 하고 10만 원을 받아서 실제로 그 활동을 할 수 있게 지원을 해줘요.
+지금 보면은 식물 잘하게 하는 걸 주제로 잘 얘기하는 것 같아요.
+근데 지켜보는 선생님들이 되게 뭐라고 요 네 이게 교장 선생님도 계시고 총괄 교감 선생님도 계시고 초등 담당이라 우리 초등 교감 님들 계시고 여러 선생님들이 봉사 담당하시는 선생님 그러니까 기본적으로 우리가 얼마 줄 테니까 너네가 뭘 해 이렇게 시킨다기보다 학생들한테 발표를 유도해서 저렇게 하는 것도 분명히 하는 거잖아요.
+그래서 그런 과정을
+
+참석자 6 / 1:17:52
+다 가는 건데 어렸을 때부터 동생이
+
+참석자 2 / 1:18:11
+를 했었거든요. 근데 이런 종이가 없어가지고 6명 4명 정도 모여서
+
+참석자 2 / 1:18:30
+안 보이게 뒷모습은 상관없습니다. 네 눈만 안 맞추면 얼마나 추운데 안 보이게 찍어 그럼 한번 시비 걸리잖아요.
+그러면
+
+참석자 2 / 1:19:10
+여기가 아무래도 한국이다 보니까 저런 기여한 문양이라든지 항상 커리큘럼에 요즘 색종이라든지 이런 걸 넣으시더라고요.
+주제를 가 이렇게 앉아 계신 분 학부모님들이 학부모님들이 아이들 수업 끝나면 데려가려고 근데 이게 저학년만 가는 거예요 네 아까 중고등학교 같은 데서는 학교에 한 번도 없거든요 네 유아원 다니는데 뭐가 여기까지 와 하기는 좀 어려울 수도 있어서 그것도 되게 부담들이 학부모님들이 많이 좋겠어요.
+여기는 이제 초등학교 도서관이고요. 왼쪽 편이 조금 그림이 많잖아요.
+더 이제 정확해. 유아원부터 해서 보는 책이 좀 아는 이 글자가 많은 것 같아요.
+
+참석자 2 / 1:20:13
+애들 도서 검색용 오늘부터 크기 봐. 진짜 다양한 교육을 할 수 있게 여기 이제 책상 의자랑 네 TV도 있고 프로젝터도 내리면은 이제 스크린 나오고 합니다.
+
+참석자 5 / 1:20:31
+도서관에서 필요하면 여기서 수업을 할 수 있어요
+
+참석자 2 / 1:20:34
+네 바로 수업이 가능하죠. 그 외부에서 되게 흥미롭게 볼 수 있는 공간이 도서관인 것 같아요.
+이게 건물을 새로 지을 수는 없는데 도서관을 새로 꾸밀 때 참고를 할 만한 부분이 뭐라도 하나 있으면은 일반 한국 학교에서도 적용이 가능하시겠죠 그리고 요거는 이제 제출할 반납 뭐 할 때 이제 사용을 하는 건데 초등은 학부모님도 봉사를 해 주시고 도서관 사서 선생님들도 계셔가지고
+
+참석자 12 / 1:22:22
+yeah so this is the village exercise.
+So this space services grade one to grade five.
+We're a team of 4 so we co teach Ah we also have someone who works with early years and then Mr.
+Shin's with us as well as a technician.
+Chadwick's mission is all about learning by doing so this is a space dedicated to that so we don't operate as a standalone special.
+We
+
+참석자 12 / 1:22:51
+look at what's going on in the grade level curriculum and come up with hands on learning challenges that connect with what they're doing.
+So we get into all sorts of things cooking throwing papercraft Robotics Laser cutting a 3D printing.
+So right now grade four and grade five spend time learning computer aided design software to create stuff for the 3D printers of their creating their own board games little games for their classrooms.
+So tick tact took
+
+참석자 12 / 1:23:26
+so it needs to have a lid and the individual pieces so that's what we're working on and then grade five is creating solutions for their classroom.
+They've identified problems in their room with their teacher and they are creating solutions to fix those things.
+Grade three is sewing a quilt
+
+참석자 2 / 1:23:57
+한 조각씩 학생들이 만들어 봐서 지금
+
+참석자 12 / 1:24:08
+and then grade two is doing how we express ourselves in their creating nature.
+Mendalas there's an example right there so they collected nature stuff from around campus and their last year we looked at papercraft Ah this year they choose a new culture a new art form so creating nature mentology and then a grade 1 is making cars they made community buildings now they're making community cars at work and then they'll put them on ramps and test them.
+
+참석자 2 / 1:24:45
+I have a question they are 충남 AI experts do you guys use AI in your curriculum or
+
+참석자 12 / 1:24:53
+yeah so a lot of different ways.
+One way we the school has a flint it's called so we had kids work through questions so individual like they'll get the design challenge and then the AI will ask them questions to help get them ready for their design.
+So that's one way we use it and then the other way we use it is to help us.
+So right now we have AI agents updating all our 3D printers.
+
+참석자 12 / 1:25:26
+So that's something we used to do.
+It would take many hours to update the software in each of them but now we have dedicated agents to the 3D printers.
+They also help process the kid's 3D prints.
+So before it would take us a long time to take a kid's file get it ready you need to put it in another program and then send it to the 3D printer.
+Now we can just give it to AI agents and they can do all that
+
+참석자 12 / 1:25:52
+work that would take hours of our time.
+So that gives us more time to work with students and just use our time in more constructive ways.
+And we use that in many different ways too like even the our seating charts and stuff like that created with AI.
+Yeah I don't know if that one's frozen but like our vocabulary words get cold and stuff like that.
+So but we've been slowly taken over the hallway out there.
+
+참석자 2 / 1:26:20
+기도 하시고요.
+
+참석자 12 / 1:26:21
+Thank you. Thanks for stop in.
+
+참석자 2 / 1:26:28
+계속 오른쪽으로 봐주세요. 스리디 프린팅 이승연 용담 이거 안 되 환기 시설이 없어.
+여기 있잖아요 여기 근데 얘는 안 돼 안 돼 있어. 까 자체적으로 필터가 달려 있다.
+그래 여기 위에 있잖아요. 저거 필라멘트 필라멘트 아니고 그렇죠 있는 것들도 있죠 그래서 그런가 보네요.
+그니까 나도 그렇게 생각을 하는데 실제로 하면서 배운 게 또 부연 설명을 이번에는 안 해 주시면 일부러 실수를 하게 놔두세요.
+실수를 하고 나면 네가 여기서 뭘 고쳐야 돼라고 해서 물어보면서 할 수 있게 예를 들어서 기타를 만들려면 종이 박스를 줘요.
+이래서 기타 모양을 만들어 봐라. 애들이 만들어요.
+구멍을 뚫으면 소리가 더 울리겠지 하면서 계속 눈도 달고 하다가 재료를 이제 플라스틱으로 바꾸고 3D 프린터로 튜너까지 만들어서 완성품이 나오게 교육을 합니다.
+그런 과정을 거치게 되고요. 저기는 저희 학교 축구장이에요.
+이번에 잔디를 새로 교체해가지고 인공 잔디고요.
+
+참석자 2 / 1:27:36
+그리고 조명탑도 이번에 새로 달았습니다. 그것 때문에 주변에서는 굉장히 싫어하세요.
+야간에 축구를 하겠다는 의지이기 때문에 네 되게 싫어하세요.
+이제 반사적으로 저희 학교 때문에 되게 주변에 올랐을 것 같은데요.
+네 제가 제 입으로 말하지 않았습니다. 좋은 지금 이득을 받고 계시는데 시끄러운 건 싫으시대요.
+그런 상황이고 네 그래도 저희는 대회를 한 번 열면 소규모로 하지 않고 이번에도 미국 중국 싱가폴 홍콩 대만까지 왔나 봐요.
+그렇게 해서 한 1500명 정도 참가하는 되게 규모가 커요.
+아마 대한민국에서 유소년 축구 대회 중에는 규모가 제일 3일 내내 했더니 주변에서 이제 시끄럽다고
+
+참석자 6 / 1:28:21
+다 다른 나라에 있는 새들이 학생들이랑 온 거예요.
+
+참석자 2 / 1:28:24
+학생들도 오고 아니면 다른 학교에 저희가 초청장을 보내서 이제 오고 싶은 학교들이 오는 거죠.
+그리고 이번에 처음으로 국내 중학교 다섯 군데에서도 참가를 했습니다.
+저희가 인천에만 초대를 보냈어요. 독립에 그리고 국제학교들은 당연히 제주에서부터 까지 다 참가를 했고요.
+이제 저희가 마지막으로 체육관이랑 수영장 보시면 10분 정도 더 오버해서 습니다.
+여기는 이제 수영장인데 여기 보시면 왼쪽 편은 유아 풀 저희가 설치를 원래는 없었거든요.
+근데 저학년들이 이렇게 있으니까 그래도 한 요 정도는 타요.
+
+참석자 1 / 1:29:14
+암벽도 있는 거 뭐야 스텐트 암벽
+
+참석자 1 / 1:29:25
+저거 좋다. 수 수업할 때 반 나눠서 하려고 다 저는 가림막 필요하거든요.
+
+참석자 2 / 1:29:37
+인증되어 있어요. 아무거나 보다는 호주에서 이게 전광판 요즘 새로 가려서 엄청 커요.
+원래는 저거 한 4분의 1만 해 인증을 받았는데 네 컬러로 그런 거
+
+참석자 10 / 1:29:50
+이게 딱 이게 아스트라
+
+참석자 2 / 1:29:54
+으로 가시면서 보시면 올림픽 대회 나가서 수상했던 거 이렇게 진행을 해봤고요.
+
+참석자 2 / 1:30:09
+25년도에 저희가 토트넘이랑 또 에모이를 맺었어요.
+마침 그 해에 성공이 나와서 성공 사인이 없을 텐데 실제로 여기 코치 분이 저희 학교에 파견을 오셔가지고 몇 달 동안 축구 교실 방과 후에
+
+참석자 2 / 1:30:31
+저렇게 해놨다가 저 이거 하면 딱 내리는 거야. 끈 풀러 갖고 이거는 끈이요 암벽 등반 아니 아니 저게 암벽 등반이야 체육관이고 여기는 이제 안벽 인공 암벽 할 수 있게 만들어 놨고 저희가 매주 수요일 방과 후에 학년이요 보호자가 있어야 될까 선생님이 한 명 감독을 하는 사람이 있어야 애들이 쓸 수 있고 적어도 전용 신발이라든지 이게 도구가 있더라고요.
+그 줄도 매야 되고 고 저 노란 게 이제 안전 끈이라서 아마 저게 140km가까지 버틸 거예요.
+저도 한번 써봤는데 줄 놓쳐도 확 안 떨어지게 이 천천히 네 완강기 역할을 합니다.
+그리고 꼴대는 사용 안 하면 이렇게 접어서 올리고요.
+농구 좋아하시는 분은 여기 브랜드 보시면 NBA에서 사용하는 농구 골대 브랜드입니다.
+이 정도 점퍼 봤잖아요. 처음에 이 설치할 때 그 엔지니어 분이 직접 학교에 오셨대요.
+한국에 리셀러가 없어가지고
+
+참석자 2 / 1:31:37
+저희 이제 주 체육관 거거든요. 이거는 파티션을 나눠놓은 게 아까 전에 보셨지만 초등학교 운동할 수 있는 곳이 한 군데 그리고 축구장이 하나 그리고 보조 체육관이랑 주 체육관이 다거든요.
+그러려면 효율적으로 수업하려면 파티션 쳐서 공간 두 개 나누면 두 반에서 한 번에 수업을 할 수 있잖아요.
+그런 목적으로 해놓은 거고요.
+
+참석자 1 / 1:31:59
+내렸다 오 여기 내렸다.
+
+참석자 2 / 1:32:00
+여기는 여기는 그래도 공간은 꽤 커도 괜찮네요. 이거 없으면 죽어 죽어 진짜 이런 거 없이 수업했었잖아.
+한 반에서 막 수업해서 설명을 하는데 여기는 축구하고 또 그냥 막 듣지도 않고 막 쳐다보고 왜 공간이 없어요 대구 좀 어떻게 애들아
+
+참석자 2 / 1:32:26
+보여줘야 되는 자세가 높다. 애들아 하이 하이 하이
+
+참석자 2 / 1:33:37
+그리고 무기명으로도 처리를 합니다. 네네네. 이게 저희가 미국 학교다 보니까 기부 문화가 좀 발달이 돼 있고요.
+대신 이제 뭐 대기업 회장님들은 본인 이름이 써 있는 걸 원하지는 않으신 분들이 계세요.
+그래서 이제 여기는 없는데 저쪽 편에 금색이 제일 많이 기명이 몇 분 계세요?
+어나니머스라고 쓰는 이유가 기업 회장 이름을 성공 좀 좋고요.
+
+참석자 2 / 1:34:19
+님 여기 문이 잠길 때니까
+
+참석자 2 / 1:34:43
+여기는 저희 학교 대극장이고요. 원래 이 무대 음향 뭐 이런 거랑 마이크는 따로 안 써도 제 목소리 들어보시면 소리가 뒤로 잘 퍼져요.
+그래서 이런 어떤 설계를 잘 해 놓으셨
+
+참석자 2 / 1:35:05
+이 아마 12월 전에 학기가 끝나는 거 아니까 해가 바뀌기 전에 항상 뭐 영국이라든지 공연을 저희 생각 안 들어 보시면 아
+
+참석자 2 / 1:35:25
+여기 가서 보면 640억 정도 되고 저희 학교가 아이비 학교잖아요 아이비 근부가 이제 싱가포르에 있는데 예전에는 저희가 아이디 연수를 받으려면 실력포를 가서 배워왔어요.
+근데 지금 최근 몇 년간은 다 체류일 해서 진행을 하거든요 이유가 우리 아까 220명 중에 60 80명 정도가 아이비 선생님을 가르칠 수 있는 자격증을 가진 분들이 있어요.
+아이 벤이라고 하는데 그분들이 계시기 때문에 우리가 호스트를 해요.
+그러면 전국에 한국뿐만 아니라 주변 국가에서도 중국에서 싱가포르 가는 거보다 한국 가깝잖아요 이런 것도 많이 배우러 오세요 보통 한 550명 정도 이상 오시는 것 같아요 전국에서는 당연히 오시고 네네 한국 교사들 분들도 참석을 하세요.
+네 워낙 또 아이비가 전국적으로 하다 보니까
+
+참석자 1 / 1:36:33
+2층도
+
+참석자 2 / 1:36:35
+있어 과학 교육은 이 이 정도 됐나 학교 느낌 더 넓어 보이는데 그러니까 근데 저녁에 여기 더 같다.
+
+참석자 1 / 1:36:55
+예쁘게 예산을 충분히 활용하였다.
+
+참석자 2 / 1:36:59
+여기 문이 열렸네 왜 인지 하고 있어 가시는 거예요 네 그러면은 그래도 2시간 넘게 가시니까 저희 내일까지 인천에 있습니다.
+내일은 대물고 AI 유원 에 들어 가니다. 네네네네 그 상상 플러스 쪽에
+
+참석자 2 / 1:37:40
+저희가 날씨 는 애들이 사실 밖에 나와서 그런 연기를 하거든요 밑에서도 하고 오늘 추워가지고 애들이 실내에서.
