@@ -60,6 +60,7 @@ function render(spec) {
   out.push(para(spec.meta, { size: 17, color: GRAY, after: 100 }));
   for (const b of spec.blocks) {
     if (b.h) out.push(heading(b.h));
+    if (b.h3) out.push(new Paragraph({ children: [new TextRun({ text: b.h3, bold: true, size: 20, color: '2F5496', font: FONT })], spacing: { before: 100, after: 40 }, keepNext: true }));
     if (b.p) out.push(para(b.p));
     if (b.note) out.push(para(b.note, { size: 16, color: GRAY }));
     if (b.bullets) b.bullets.forEach(x => Array.isArray(x) ? x.forEach(y => out.push(bullet(y, 1))) : out.push(bullet(x)));
