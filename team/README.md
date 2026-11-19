@@ -14,6 +14,7 @@
 | **부이(vooy)** | 해외 자료 조사 (**시범 투입**) | 채드윅 영문 공식 자료 조사 — 결과는 Claude가 검증 후 사용 | [orders/vooy.md](orders/vooy.md) |
 
 부이는 오늘 처음 투입하는 시범 단계라 보고서의 핵심 경로에 두지 않는다. 결과물이 좋으면 2일 차부터 업무를 늘린다.
+부이는 GitHub를 읽을 수만 있고 올릴 수 없다 → 부이 결과물은 **선생님 → 피클**이 원문 그대로 해당 경로에 올린다. 이번 연수는 부이로 진행하고, 다음 연수부터 Muse·Cue 시범 투입을 검토한다.
 
 ## 2. 파일 소유권 (충돌 방지 핵심 규칙)
 
@@ -26,7 +27,7 @@
 | `AGENTS.md`, `team/**`, `templates/**`, `README.md`(루트·방문 폴더), `STATUS.md`, `report.md`, `study-notes.md`, `transcripts/**` | Claude |
 | `scripts/**`, `photos/**`, 방문 폴더의 `*_파싱.md`, `export/**` | Codex |
 | `research/국내_*.md` | 피클 |
-| `research/해외_*.md` | 부이 |
+| `research/해외_*.md` | 부이 (작성) — 부이는 GitHub **읽기 전용**이므로 **피클이 대리 업로드** |
 | `notes.md` | 선생님 (AI는 선생님이 불러 준 내용을 받아 적을 때만 추가) |
 | `inbox/**` | 누구나 **추가만** 가능 (수정·삭제 금지) |
 | `<이름>-worklog.md` | 각자 (`codex-worklog.md`, `pickle-worklog.md`, `vooy-worklog.md`) |
