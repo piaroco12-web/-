@@ -6,6 +6,16 @@ const {
   ShadingType, BorderStyle, AlignmentType, LevelFormat, Footer, PageNumber,
 } = require('docx');
 
+const { ImageRun } = require('docx');
+function jpegSize(buf) { // JPEG SOF 마커에서 크기 읽기
+  let i = 2;
+  while (i < buf.length) {
+    const m = buf[i + 1], len = buf.readUInt16BE(i + 2);
+    if (m >= 0xC0 && m <= 0xC3) return { h: buf.readUInt16BE(i + 5), w: buf.readUInt16BE(i + 7) };
+    i += 2 + len;
+  }
+  throw new Error('JPEG size not found');
+}
 const FONT = '맑은 고딕';
 const PAGE_W = 11906, MARGIN = 850; // A4, 약 15mm 여백
 const CONTENT_W = PAGE_W - MARGIN * 2;
@@ -18,7 +28,7 @@ function runs(text, opt = {}) {
     return new TextRun({ text: bold ? s.slice(2, -2) : s, bold: bold || opt.bold, size: opt.size || 19, color: opt.color, font: FONT });
   });
 }
-const para = (text, o = {}) => new Paragraph({ children: runs(text, o), spacing: { before: o.before || 0, after: o.after ?? 40, line: 264 }, alignment: o.align });
+const para = (text, o = {}) => new Paragraph({ children: runs(text, o), spacing: { before: o.before || 0, after: o.after ?? 40, line: 264 }, alignment: o.align, keepNext: o.keepNext });
 const bullet = (text, level = 0) => new Paragraph({ children: runs(text), numbering: { reference: 'b', level }, spacing: { after: 30, line: 260 } });
 
 function heading(text) {
@@ -61,11 +71,33 @@ function render(spec) {
   for (const b of spec.blocks) {
     if (b.h) out.push(heading(b.h));
     if (b.h3) out.push(new Paragraph({ children: [new TextRun({ text: b.h3, bold: true, size: 20, color: '2F5496', font: FONT })], spacing: { before: 100, after: 40 }, keepNext: true }));
-    if (b.p) out.push(para(b.p));
+    if (b.p) out.push(para(b.p, { keepNext: String(b.p).startsWith('**') }));
     if (b.note) out.push(para(b.note, { size: 16, color: GRAY }));
     if (b.bullets) b.bullets.forEach(x => Array.isArray(x) ? x.forEach(y => out.push(bullet(y, 1))) : out.push(bullet(x)));
     if (b.kv) out.push(...table([1, 4.2], null, b.kv));
     if (b.table) out.push(...table(b.table.ratios, b.table.header, b.table.rows));
+    if (b.photos) {
+      // 두 장씩 나란히: [{file, caption}, ...]
+      const half = Math.floor(CONTENT_W / 2), PX = 318;
+      const nb = { style: BorderStyle.NONE, size: 0, color: 'FFFFFF' };
+      const nbs = { top: nb, bottom: nb, left: nb, right: nb };
+      const rows = [];
+      for (let i = 0; i < b.photos.length; i += 2) {
+        rows.push(new TableRow({ cantSplit: true, children: [0, 1].map(k => {
+          const ph = b.photos[i + k];
+          if (!ph) return new TableCell({ width: { size: half, type: WidthType.DXA }, borders: nbs, children: [new Paragraph('')] });
+          const buf = fs.readFileSync(path.join(__dirname, ph.file));
+          const { w, h } = jpegSize(buf);
+          const ww = Math.min(PX, Math.round(PX * w / h * 0.75) > PX ? PX : PX), hh = Math.round(ww * h / w);
+          const maxH = 260, scale = hh > maxH ? maxH / hh : 1;
+          return new TableCell({ width: { size: half, type: WidthType.DXA }, borders: nbs, margins: { top: 40, bottom: 60, left: 60, right: 60 }, children: [
+            new Paragraph({ alignment: AlignmentType.CENTER, children: [new ImageRun({ type: 'jpg', data: buf, transformation: { width: Math.round(ww * scale), height: Math.round(hh * scale) } })] }),
+            new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 30 }, children: runs(ph.caption, { size: 16, color: GRAY }) }),
+          ] });
+        }) }));
+      }
+      out.push(new Table({ width: { size: CONTENT_W, type: WidthType.DXA }, columnWidths: [half, CONTENT_W - half], rows }), para('', { after: 40 }));
+    }
     if (b.questions) b.questions.forEach((q, i) => {
       out.push(new Paragraph({ children: runs(`Q${i + 1}. ${q.q}`, { bold: true }), spacing: { before: 60, after: 20, line: 260 }, keepNext: true }));
       if (q.en) out.push(para(q.en, { size: 17, color: GRAY, after: 20 }));
