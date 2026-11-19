@@ -1,5 +1,7 @@
 # 팀 운영 — 인천 송도 1박 2일 종합 보고서
 
+> **11/20 오늘 작전표: [today_1120.md](today_1120.md)** (피클·뮤즈·큐 투입, 부이 휴식)
+
 > 총괄(대장): **Claude Code** · 의뢰인: 선생님(충남소프트웨어교육체험센터)
 > 최종 독자: **부장님 (내부 결과보고)** — 꼼꼼하게 읽으시므로 모든 사실에 근거가 있어야 함
 > 모든 AI는 작업 전에 [`/AGENTS.md`](../AGENTS.md) → 이 파일 → 자기 명령서(`orders/<이름>.md`) 순서로 읽는다.
@@ -12,6 +14,8 @@
 | **Codex** | 자동화·파일 | 사진 정리, 연결표, 링크 점검, 변환(HTML/DOCX/PDF) | [orders/codex.md](orders/codex.md) |
 | **피클** | 국내 리서치 | 한국 웹사이트 조사: 제물포 AI융합교육센터, 인천·충남교육청, 교육부 정책 | [orders/pickle.md](orders/pickle.md) |
 | **부이(vooy)** | 해외 자료 조사 (**시범 투입**) | 채드윅 영문 공식 자료 조사 — 결과는 Claude가 검증 후 사용 | [orders/vooy.md](orders/vooy.md) |
+| **뮤즈(Muse)** | 시범 (11/20~) | 현장 체크리스트 등 자료 내 정리 작업 | [orders/muse.md](orders/muse.md) |
+| **큐(Cue)** | 시범 (11/20~) | 질문 카드 등 자료 내 구조화 작업 | [orders/cue.md](orders/cue.md) |
 
 부이는 오늘 처음 투입하는 시범 단계라 보고서의 핵심 경로에 두지 않는다. 결과물이 좋으면 2일 차부터 업무를 늘린다.
 부이는 GitHub를 읽을 수만 있고 올릴 수 없다 → 부이 결과물은 **선생님 → 피클**이 원문 그대로 해당 경로에 올린다. 이번 연수는 부이로 진행하고, 다음 연수부터 Muse·Cue 시범 투입을 검토한다.
@@ -30,7 +34,7 @@
 | `research/해외_*.md` | 부이 (작성) — 부이는 GitHub **읽기 전용**이므로 **피클이 대리 업로드** |
 | `notes.md` | 선생님 (AI는 선생님이 불러 준 내용을 받아 적을 때만 추가) |
 | `inbox/**` | 누구나 **추가만** 가능 (수정·삭제 금지) |
-| `<이름>-worklog.md` | 각자 (`codex-worklog.md`, `pickle-worklog.md`, `vooy-worklog.md`) |
+| `<이름>-worklog.md` | 각자 (뮤즈·큐는 GitHub 업로드 대신 선생님 → Claude 전달) (`codex-worklog.md`, `pickle-worklog.md`, `vooy-worklog.md`) |
 
 ## 3. 자료 흐름
 
