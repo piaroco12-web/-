@@ -46,7 +46,7 @@ module.exports = {
     { h: '4. 공개 자료로 확인하지 못한 사항 (현장 확인 대상)' },
     { table: { ratios: [2.2, 4.5], header: ['항목', '비고'], rows: [
       ['생성형 AI 사용 정책', '학생·교사 대상 정책 문구를 공식 사이트에서 찾지 못함'],
-      ['현행 기기 정책', '학교 지급·BYOD·1인 1기기 여부, 디지털 시민성 전용 정책'],
+      ['현행 기기 정책', '학교 지급, 개인 기기 지참(BYOD), 1인 1기기 여부, 디지털 시민성 전용 정책'],
       ['코딩·컴퓨터과학 교육과정', '정규 과목·학년별 기준이 공식 자료로 확인되지 않음'],
       ['현행 학업 윤리 규정', '공개된 규정이 2010-11 핸드북뿐이라 현행 여부 확인 필요'],
     ] } },
@@ -69,7 +69,7 @@ module.exports = {
       { q: '학생·교사는 현재 어떤 코딩·AI 리터러시 교육을 받고, 교사 연수는 어떻게 운영합니까?',
         en: 'What coding and AI literacy education do students and teachers currently receive, and how is teacher professional development organized?',
         why: '정규 교육과정 속 코딩·AI 교육이 공개 자료로 확인되지 않음.' },
-      { q: '학교급별 기기 운영 방식(학교 지급·BYOD·미사용)과 디지털 시민성 교육은 어떻게 합니까?',
+      { q: '학교급별 기기 운영 방식(학교 지급 / 개인 기기 지참(BYOD) / 미사용)과 디지털 시민성 교육은 어떻게 합니까?',
         en: 'What device model do students use in each division, and how is digital citizenship taught?',
         why: '현행 기기 정책이 공개 자료로 확인되지 않음.' },
       { q: 'AI 사용을 허용하거나 제한한 프로젝트·포트폴리오 과제를 교사는 어떤 기준으로 평가합니까?',
