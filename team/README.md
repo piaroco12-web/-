@@ -24,7 +24,7 @@
 
 | 경로 | 소유자 |
 |---|---|
-| `AGENTS.md`, `team/**`, `templates/**`, `README.md`(루트·방문 폴더), `STATUS.md`, `report.md`, `study-notes.md`, `transcripts/**` | Claude |
+| `AGENTS.md`, `team/**`, `templates/**`, `README.md`(루트·방문 폴더), `STATUS.md`, `report.md`, `study-notes.md`, `transcripts/**`, `현장관찰_*.md` | Claude |
 | `scripts/**`, `photos/**`, 방문 폴더의 `*_파싱.md`, `export/**` | Codex |
 | `research/국내_*.md` | 피클 |
 | `research/해외_*.md` | 부이 (작성) — 부이는 GitHub **읽기 전용**이므로 **피클이 대리 업로드** |
