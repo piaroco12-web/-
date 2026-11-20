@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const {
   Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell, WidthType,
-  ShadingType, BorderStyle, AlignmentType, LevelFormat, Footer, PageNumber,
+  ShadingType, BorderStyle, VerticalAlign, PageBreak, AlignmentType, LevelFormat, Footer, PageNumber,
 } = require('docx');
 
 const { ImageRun } = require('docx');
@@ -70,7 +70,7 @@ function render(spec) {
   out.push(para(spec.meta, { size: 17, color: GRAY, after: 100 }));
   for (const b of spec.blocks) {
     if (b.h) out.push(heading(b.h));
-    if (b.h3) out.push(new Paragraph({ children: [new TextRun({ text: b.h3, bold: true, size: 20, color: '2F5496', font: FONT })], spacing: { before: 100, after: 40 }, keepNext: true }));
+    if (b.h3) out.push(new Paragraph({ pageBreakBefore: !!b.newPage, children: [new TextRun({ text: b.h3, bold: true, size: 20, color: '2F5496', font: FONT })], spacing: { before: 100, after: 40 }, keepNext: true }));
     if (b.p) out.push(para(b.p, { keepNext: String(b.p).startsWith('**') }));
     if (b.note) out.push(para(b.note, { size: 16, color: GRAY }));
     if (b.bullets) b.bullets.forEach(x => Array.isArray(x) ? x.forEach(y => out.push(bullet(y, 1))) : out.push(bullet(x)));
@@ -88,9 +88,9 @@ function render(spec) {
           if (!ph) return new TableCell({ width: { size: half, type: WidthType.DXA }, borders: nbs, children: [new Paragraph('')] });
           const buf = fs.readFileSync(path.join(__dirname, ph.file));
           const { w, h } = jpegSize(buf);
-          const ww = Math.min(PX, Math.round(PX * w / h * 0.75) > PX ? PX : PX), hh = Math.round(ww * h / w);
-          const maxH = 260, scale = hh > maxH ? maxH / hh : 1;
-          return new TableCell({ width: { size: half, type: WidthType.DXA }, borders: nbs, margins: { top: 40, bottom: 60, left: 60, right: 60 }, children: [
+          const BW = 300, BH = 225, sc = Math.min(BW / w, BH / h);
+          const ww = Math.round(w * sc), hh = Math.round(h * sc), scale = 1;
+          return new TableCell({ width: { size: half, type: WidthType.DXA }, borders: nbs, verticalAlign: VerticalAlign.BOTTOM, margins: { top: 40, bottom: 60, left: 60, right: 60 }, children: [
             new Paragraph({ alignment: AlignmentType.CENTER, children: [new ImageRun({ type: 'jpg', data: buf, transformation: { width: Math.round(ww * scale), height: Math.round(hh * scale) } })] }),
             new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 30 }, children: runs(ph.caption, { size: 16, color: GRAY }) }),
           ] });
