@@ -26,6 +26,11 @@ def render(week):
         subprocess.run(["pandoc", str(source), "--from=markdown", "--to=docx",
                         f"--reference-doc={template}", "-o", str(draft)], check=True)
         doc = Document(draft)
+        # Pandoc writes the task box as text as well as assigning a bullet.
+        for item in doc.element.body.xpath(".//w:p[w:pPr/w:numPr]"):
+            if "".join(item.xpath(".//w:t/text()")).startswith(("☐ ", "☒ ", "☑ ")):
+                props = item.get_or_add_pPr()
+                props.remove(props.numPr)
         headers = [p for p in doc.paragraphs if p.style.name == "Heading 2"]
         if tuple(p.text.strip() for p in headers) != AREAS:
             raise ValueError("원고의 ## 영역과 순서 확인 필요: " + " / ".join(AREAS))
