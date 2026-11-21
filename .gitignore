@@ -10,3 +10,6 @@
 *.mp4
 *.mov
 .DS_Store
+
+# Python 캐시
+__pycache__/
