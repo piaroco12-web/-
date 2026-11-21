@@ -42,10 +42,6 @@
 ## 4. AI 활용 방식
 
 - [11/16] [피클] 노션 AI 작업 로그 연계 활성화 및 사용 규칙·명령문 최신화 — 피클의 노션 직접 읽기·쓰기·요청함 조회 가능 확인, 사용 규칙 5절과 명령문 모음 문구 최신화 (https://app.notion.com/4193efbf1f7a813badebffe4ebe8602a)
-- [11/16] [피클] 정부24 주소 최신화 및 현대카드 명세서 월간 전달 설정 — 정부24·현대카드·삼성카드 웹 연동 및 현 거주지 주소 반영, 현대카드 코스트코카드 11월 명세서(381,430원) 전달 및 매월 10일 09:00 정기 전달 루틴 등록 (https://app.notion.com/4193efbf1f7a814788cbc1ffbe2d10d2)
-- [11/16] [피클] 지메일 광고·프로모션 1단계 정리 결과 — Gmail 순수 광고·프로모션 1,360건 휴지통 이동(영구삭제 없음), 영수증·인증·약관 60건 및 개인·업무 메일 보존 검증 (https://app.notion.com/4193efbf1f7a81e0b7c7ff707f0a78d5)
-- [11/16] [피클] 2026년 클로드·지피티 Google Play 결제 영수증 PDF 정리 — 2026년 결제 내역 9건(ChatGPT Plus 1건·Claude Pro 8건, 합계 269,000원) 공식 주문 영수증 원문을 개별·통합 PDF·ZIP으로 저장 (https://app.notion.com/41a3efbf1f7a81a5ae21cdc988459fac)
-- [11/16] [Muse] 아바타 로테이션 설정 — 매일 08:00, 사진 1→2→3→4 — 아바타 매일 교체 로테이션 설정 및 11/16 사진 1 적용, cron daily-avatar-rotation 설정 (https://app.notion.com/4193efbf1f7a81bc8d5dc19e3282a309)
 
 ## 이번 주 Claude 대화 요약
 
@@ -58,5 +54,41 @@
 ## 수집 현황
 
 - 확인한 페이지 수: 35개 (AI 작업 로그 DB 35행)
+- 제외한 생활 비서 항목: 5건 (내용은 적지 않음)
 - 영역 분류가 애매한 항목: 2개 (정책 연계 조사 — 3번 영역 후보이나 2번 영역과도 겹침; 지침 파일 구조화 — 1번 영역 후보이나 4번 영역과도 겹침)
 - 참고: Muse의 11/17~11/21 작업은 노션 AI 작업 로그에 기록되지 않아 이번 정리에서 제외됨 (로그 기준)
+
+```notion-tsv
+날짜	도구	유형	원본
+2026-11-16	피클	작업	https://app.notion.com/4193efbf1f7a813badebffe4ebe8602a
+2026-11-16	뮤즈	작업	https://app.notion.com/4193efbf1f7a81638507d682c8c3afee
+2026-11-16	피클	작업	https://app.notion.com/4193efbf1f7a817a99ffe154b716de7a
+2026-11-16	Codex	작업	https://app.notion.com/41a3efbf1f7a811b8a5ddfaf5da44e4b
+2026-11-16	Claude	작업	https://app.notion.com/41a3efbf1f7a8142b932da7b3fb9009c
+2026-11-16	Codex	작업	https://app.notion.com/41a3efbf1f7a818e921ddc8b15d90a7b
+2026-11-16	Claude	작업	https://app.notion.com/41a3efbf1f7a81998c28d985af2a219d
+2026-11-16	Claude	작업	https://app.notion.com/41a3efbf1f7a81b58747d91887628093
+2026-11-16	Claude	작업	https://app.notion.com/41a3efbf1f7a81bd9290fccab39cc3f0
+2026-11-16	Claude	작업	https://app.notion.com/41a3efbf1f7a81d39635c4963fcda77c
+2026-11-17	Claude	작업	https://app.notion.com/41a3efbf1f7a8109b73df094021c392c
+2026-11-17	Codex	작업	https://app.notion.com/41a3efbf1f7a8113aff0fdd78e37a3d3
+2026-11-17	Codex	작업	https://app.notion.com/41a3efbf1f7a8129963bd1641048d0a5
+2026-11-17	Codex	작업	https://app.notion.com/41a3efbf1f7a817c8139e96e50c2b6e2
+2026-11-17	피클	작업	https://app.notion.com/41a3efbf1f7a81adb6f5dbd34a46c4eb
+2026-11-18	피클	작업	https://app.notion.com/41b3efbf1f7a8163b786c3055f7186db
+2026-11-18	Codex	요청	https://app.notion.com/41c3efbf1f7a810a93c9e884950e86e8
+2026-11-18	Codex	작업	https://app.notion.com/41c3efbf1f7a81d795ecf628cde28375
+2026-11-18	Codex	작업	https://app.notion.com/41c3efbf1f7a815c932dd9aa1d309de4
+2026-11-18	Claude	작업	https://app.notion.com/41c3efbf1f7a81cf86c7c01fec4c6e77
+2026-11-18	Claude	작업	https://app.notion.com/41c3efbf1f7a81dc9f74fcf919a15d5a
+2026-11-19	피클	작업	https://app.notion.com/41c3efbf1f7a81d38053dd5f0383a363
+2026-11-19	피클	작업	https://app.notion.com/41d3efbf1f7a8163aa3ac32a7044dd7d
+2026-11-19	피클	작업	https://app.notion.com/41d3efbf1f7a81af8eedf6a96f989fa2
+2026-11-20	피클	작업	https://app.notion.com/41d3efbf1f7a81fa8f63db926d3b9eb4
+2026-11-20	피클	작업	https://app.notion.com/41d3efbf1f7a81d2b93ccc904298cd3d
+2026-11-20	Codex	작업	https://app.notion.com/41e3efbf1f7a81f59037e12fa91b9c2c
+2026-11-20	Codex	작업	https://app.notion.com/41e3efbf1f7a818fb19ed17a1ca9f395
+2026-11-20	Claude	작업	https://app.notion.com/41e3efbf1f7a8104ac12d8ae17bc998c
+2026-11-20	피클	작업	https://app.notion.com/41e3efbf1f7a81cf82c6c22464d6d238
+2026-11-21	피클	작업	https://app.notion.com/41e3efbf1f7a8110ab28e106cc7f5bfc
+```
